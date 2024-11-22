@@ -1,0 +1,40 @@
+.navbar:hover {
+  background: var(--bs-purple);
+}
+
+.fas.fa-cookie-bite:hover {
+  color: #ffffff;
+}
+
+h1:hover {
+  background: var(--bs-purple);
+  color: #ffffff;
+}
+
+.footer-basic:hover {
+  background: var(--bs-purple);
+}
+
+img:hover {
+  filter: contrast(80%);
+}
+
+.icon:hover {
+  color: #ffffff;
+}
+
+li:hover {
+  color: #ffffff;
+}
+
+.nav-item:hover {
+  background: #ffffff;
+}
+
+.texto:hover {
+}
+
+p:hover {
+  color: white;
+}
+
